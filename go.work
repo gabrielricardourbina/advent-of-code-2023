@@ -2,4 +2,5 @@ go 1.21.4
 
 use ./day-5
 use ./day-6
+use ./day-7
 
